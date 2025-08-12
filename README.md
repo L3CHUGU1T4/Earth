@@ -14,7 +14,7 @@ those that clarify accepted best practices.
 
 After installing node.js and npm, clone "earth" and install dependencies:
 
-    git clone https://github.com/L3CHUGU1T4/Earth?tab=readme-ov-file
+    git clone https://github.com/L3CHUGU1T4/Earth
     cd earth
     npm install
 
